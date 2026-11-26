@@ -17,3 +17,11 @@ The project provides a simple example of inheritance, encapsulation, validation,
    ```bash
    python Project1/pythonfile1.py
    ```
+
+## Git Best Practices
+
+- Pull the latest changes from `main` before starting new work.
+- Create a descriptive branch for each feature or fix.
+- Make small, focused commits with clear commit messages.
+- Push the branch to GitHub and open a pull request before merging.
+- Review changes and resolve merge conflicts carefully.
